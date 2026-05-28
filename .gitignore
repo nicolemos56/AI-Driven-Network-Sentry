@@ -1,20 +1,15 @@
-# Arquivos de ambiente e configuração
-.env
-.env.example
-
 # Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-venv/
+*.py[cod]
+*$py.class
 .venv/
+AmbienteVirtual/
+.env
+
+# Ide / Sistema
+.vscode/
+.DS_Store
+Thumbs.db
 
 # Logs
 *.log
-
-# IDE e Text Editors
-.vscode/
-.idea/
-*.swp
-*.swo
