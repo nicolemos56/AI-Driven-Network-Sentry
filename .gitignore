@@ -13,4 +13,4 @@ Thumbs.db
 
 # Logs
 *.log
-.test_models
+test_models.py
