@@ -1,0 +1,20 @@
+# Arquivos de ambiente e configuração
+.env
+.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+
+# Logs
+*.log
+
+# IDE e Text Editors
+.vscode/
+.idea/
+*.swp
+*.swo
